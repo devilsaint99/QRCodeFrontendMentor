@@ -24,8 +24,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/devilsaint99/qrcode)
-- Live Site URL: [Add live site URL here](https://startling-chimera-0e0de3.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/devilsaint99/qrcode)
+- Live Site URL: [Live site URL](https://startling-chimera-0e0de3.netlify.app/)
 
 ## My process
 
@@ -39,7 +39,5 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@devilsaint99](https://www.frontendmentor.io/profile/devilsaint99)
 - Twitter - [@devilsaint1](https://twitter.com/devilsaint1)
